@@ -1,1 +1,1 @@
-![image](https://github.com/yizhengtutu/RadarImage/UnityRadarImageSettings.gif)
+![image](https://github.com/yizhengtutu/RadarImage/blob/master/UnityRadarImageSettings.gif)
