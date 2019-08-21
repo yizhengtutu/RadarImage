@@ -14,5 +14,3 @@
 - 删除 gameObject 上的 Image 组件
 - 添加 RadarImage 组件
 - 设置 RadarImageData 组件上的 Strength 数组
-
-* END
